@@ -1,4 +1,4 @@
-FROM sequenceiq/spark:1.3.0-ubuntu
+FROM sequenceiq/spark:1.3.0
 MAINTAINER Michael Bechauf
 
 EXPOSE 8080
